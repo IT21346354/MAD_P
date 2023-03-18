@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MAD_Project</string>
+    <string name="started_title">Hello You!</string>
+    <string name="started_sub_title">Nice to meet you ome join our community!
+        <br><b>Login</b> If you already have account</br>
+        <br><b>Register</b> To get started with the app</br>
+
+    </string>
+    <string name="illustration_img">Illustration Image</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="login_title">Login to app</string>
+    <string name="login_sub_title">
+        <font color="#00C988"><b>Login</b></font>  If you already have account.
+
+    </string>
+    <string name="login_email">Your E-mail or User Name</string>
+    <string name="login_password">Your Password</string>
+    <string name="login_forget_pw">Forgot Password</string>
+    <string name="login_havent_account">
+        I don\'t have an account  <font color="#00C988"><b>Register</b></font>
+
+    </string>
+    <string name="register_title">Create an account</string>
+
+    <string name="register_sub_title">
+        <font color="#00C988"><b>Register</b></font>  To get started with the app.
+
+    </string>
+    <string name="register_fullname">Your Full Name</string>
+    <string name="register_email">Enter Your Email</string>
+    <string name="register_username">Your User Name</string>
+    <string name="register_confirm_yourpassword">Confirm Your Password</string>
+    <string name="register_have_account">
+        I already have an account  <font color="#00C988"><b>Login</b></font>
+    </string>
+    <string name="home_title">WELCOME</string>
+    <string name="home_sub_title">Please Search Your</string>
+    <string name="btn_logout">LOG OUT</string>
+</resources>
